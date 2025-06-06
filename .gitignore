@@ -1,0 +1,53 @@
+# Visual Studio temporary files, build results, and
+# user-generated files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Dotnet build output
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+
+# ASP.NET Core
+wwwroot/node_modules/
+wwwroot/dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+*.mdb
+
+# Resharper
+_ReSharper*/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Publish output
+publish/
+
+# DotCover
+*.dotCover
+
+# Azure Pipelines
+.azure-pipelines/
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
